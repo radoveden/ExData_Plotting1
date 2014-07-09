@@ -1,3 +1,7 @@
+## Information added by student
+I added a preparation step <b>plot0.R</b> for the download and the cleaning
+of the file. So you have to execute this step once before you can do
+the rest.
 ## Introduction
 
 This assignment uses data from
